@@ -1,0 +1,8 @@
+<svg width="310" height="310" viewBox="0 0 310 310" fill="none" xmlns="http://www.w3.org/2000/svg">
+<line x1="12.5" y1="155" x2="77.5" y2="155" stroke="#4D4D4D" stroke-width="25" stroke-linecap="round"/>
+<line x1="232.5" y1="155" x2="297.5" y2="155" stroke="#4D4D4D" stroke-width="25" stroke-linecap="round"/>
+<line x1="155" y1="297.5" x2="155" y2="232.5" stroke="#4D4D4D" stroke-width="25" stroke-linecap="round"/>
+<line x1="155" y1="77.5" x2="155" y2="12.5" stroke="#4D4D4D" stroke-width="25" stroke-linecap="round"/>
+<path d="M42.5 154.5C42.5 216.632 92.868 267 155 267C217.132 267 267.5 216.632 267.5 154.5C267.5 92.368 217.132 42 155 42C92.868 42 42.5 92.368 42.5 154.5Z" stroke="#4D4D4D" stroke-width="25" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="155" cy="155" r="15" fill="#4D4D4D"/>
+</svg>
